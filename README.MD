@@ -3,6 +3,9 @@
 ## Project Brief
 The Project aimed to test and gain my skills in Developing RESTful API using Flask Framework and implementing Machine Learning model in it that run on Docker container. The Project provided by Digital Skola. 
 
+
+![api flask docker](https://github.com/artso17/docker-flask-api-ml/assets/78079780/4dfbbb08-254e-4541-8d8d-24624c42244a)
+
 ## Success Criteria
 - Create prediction class that implement insurance prediction model in file `insurance_model.py`
 - Create preprocessing class in file `insurance_pre.py`
